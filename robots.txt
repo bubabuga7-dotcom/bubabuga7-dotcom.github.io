@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bubabuga7-dotcom.github.io/Prepline/sitemap.xml
